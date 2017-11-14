@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Title: Apache Maven Dependency Plugin
+Implementation-Version: 3.0.1
+Implementation-Vendor-Id: org.apache.maven.plugins
+Built-By: kama
+Build-Jdk: 1.7.0_79
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Maven Dependency Plugin
+Created-By: Apache Maven 3.3.9
+Implementation-URL: https://maven.apache.org/plugins/maven-dependency-
+ plugin/
+Specification-Version: 3.0
+Archiver-Version: Plexus Archiver
+
