@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.wrapp.floatlabelededittext</groupId>
+  <artifactId>library</artifactId>
+  <version>0.0.6</version>
+  <packaging>aar</packaging>
+  <name>Float Labeled Edittext</name>
+  <description>Float Label Edittext for Android</description>
+  <url>https://github.com/wrapp/floatlabelededittext</url>
+  <licenses>
+    <license>
+      <name>MIT License, Version 2.0</name>
+      <url>http://opensource.org/licenses/MIT</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>heinrisch</id>
+      <name>Henrik SandstrÃ¶m</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:wrapp/floatlabelededittext.git</connection>
+    <developerConnection>scm:git@github.com:wrapp/floatlabelededittext.git</developerConnection>
+    <url>https://github.com/wrapp/floatlabelededittext</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>com.nineoldandroids</groupId>
+      <artifactId>library</artifactId>
+      <version>2.4.0</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
