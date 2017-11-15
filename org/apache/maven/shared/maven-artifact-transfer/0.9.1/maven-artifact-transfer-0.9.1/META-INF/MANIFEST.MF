@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Title: Apache Maven Artifact Transfer
+Implementation-Version: 0.9.1
+Implementation-Vendor-Id: org.apache.maven.shared
+Built-By: kama
+Build-Jdk: 1.7.0_79
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Maven Artifact Transfer
+Created-By: Apache Maven 3.5.0
+Implementation-URL: https://maven.apache.org/shared/maven-artifact-tra
+ nsfer/
+Specification-Version: 0.9
+Archiver-Version: Plexus Archiver
+
